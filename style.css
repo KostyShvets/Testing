@@ -59,6 +59,10 @@ body {
 }
 .card-text-utterance {
     text-decoration: underline;
+    font-size: 16px;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 700;
+    margin: 6px;
 }
 .card-image {
     width: 100%;
